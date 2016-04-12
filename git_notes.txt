@@ -1,0 +1,4 @@
+commit
+make change  ---> put on the stage --> add to repo (where we already had stuff)
+
+#figure out role of HEAD (head is the most recent commit) in git (is a label, not a command)
